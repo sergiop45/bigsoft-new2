@@ -1,0 +1,82 @@
+.contact {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.title-contact {
+    background-color: #50CD73;
+    height: 100px;
+    color: #F1F1F1;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-contact {
+    width: 100%;
+    background: #26A449;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 51px 1px;
+}
+  
+  .form-contact div {
+    margin-bottom: 20px;
+    width: 30%;
+  }
+  
+  .form-contact label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-contact input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .form-contact textarea {
+    height: 150px;
+    min-width: 120px;
+  }
+  
+  .form-contact button[type="submit"] {
+    display: block;
+    width: 50%;
+    min-width: 200px;
+    padding: 10px;
+    background-color: #0A4D1C;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 1s;
+  }
+  
+  .form-contact button[type="submit"]:hover {
+    background-color: #52CD75;
+  }
+
+  
+  @media (max-width: 767px) {
+    .form-contact div {
+      width: 60%;
+    }
+  }
+

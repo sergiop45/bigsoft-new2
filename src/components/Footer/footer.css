@@ -1,0 +1,99 @@
+.footer {
+    padding-top: 54px;
+    text-align: center;
+    width: 100%;
+    height: 167px;
+    background-color: #0A4D1C;
+}
+
+.footer .direitos {
+    
+    width: 100%;
+    height: 16px;
+
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #F1F1F1;
+    margin-bottom: 33px;
+}
+
+.footer .convite {
+    width: 100%;
+    height: 16px;
+    
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #F1F1F1;
+    margin-top: 4px;
+    margin-bottom: 14px;
+}
+
+
+.footer  div a {
+    text-decoration: none;
+    height: 30px;
+    width: 30px;
+    color: #F1F1F1;
+    padding-right: 15px;
+}
+
+.icon-facebook {
+    color: #F1F1F1; /* cor padrão do Facebook */
+    font-size: 34px;
+    transition: color 0.2s ease-in-out;
+
+    /* estilização ao passar o mouse */
+    &:hover {
+        color: #2d4373; /* cor escura do Facebook */
+    }
+}
+
+.icon-instagram {
+color: #F1F1F1; /* cor padrão do Instagram */
+font-size: 34px;
+transition: color 0.2s ease-in-out;
+
+/* estilização ao passar o mouse */
+&:hover {
+    color: #bd2e5d; /* cor escura do Instagram */
+}
+}
+
+  
+.icon-linkedin {
+color: #F1F1F1; /* cor padrão do LinkedIn */
+font-size: 34px;
+transition: color 0.2s ease-in-out;
+
+/* estilização ao passar o mouse */
+&:hover {
+    color: #0c5c87; /* cor escura do LinkedIn */
+}
+}
+  
+
+.icon-whatsapp {
+    color: #F1F1F1; /* cor padrão do WhatsApp */
+    font-size: 34px;
+    transition: color 0.2s ease-in-out;
+  
+    /* estilização ao passar o mouse */
+    &:hover {
+      color: #1ebea5; /* cor escura do WhatsApp */
+    }
+  }
+  

@@ -1,0 +1,28 @@
+.phrase {
+    height: 120px;
+    max-height: 120px;
+    line-height: 120px;
+    word-wrap: break-word;
+    text-align: center;
+    width: 100%;
+    background-color: #ffffff;
+  }
+  
+  .phrase-container {
+    background-color: #ffffff;
+  }
+  
+  .phrase-container h2 {
+    color: black;
+    font-weight: 200;
+    font-size: 1.7em;
+    text-shadow: 1px 2px 4px black;
+    font-style: italic;
+  }
+  
+  @media screen and (max-width: 550px) {
+    .phrase-container h2 {
+      font-size: 1em;
+    }
+  }
+  

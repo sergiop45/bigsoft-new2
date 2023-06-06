@@ -1,0 +1,91 @@
+.portfolio {
+    background-color: #26A449;
+    font-family: 'Roboto Mono';
+  }
+  
+  .title-portfolio {
+    background-color: #50CD73;
+    height: 100px;
+    color: #F1F1F1;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+  .projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 50px;
+  }
+  
+  .project-item {
+    max-width: 300px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: all 0.5s ease;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+
+  .project-item:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 10px #0A4D1C;
+  }
+  
+  .project-image {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .project-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .project-description {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 20px;
+  }
+  
+  .portfolio button[type="submit"] {
+    display: block;
+    width: 50%;
+    min-width: 200px;
+    padding: 10px;
+    background-color: #0A4D1C;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 1s;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  
+  .portfolio button[type="submit"]:hover {
+    background-color: #52CD75;
+  }
+
+  @media (max-width: 767px) {
+    .projects-container {
+      display: flex;
+      flex-direction: column;
+    }
+  }
