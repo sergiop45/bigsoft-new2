@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bigsoft-new2/static/css/main.a3c9c8aa.css",
+    "main.js": "/bigsoft-new2/static/js/main.a745aa54.js",
+    "static/js/787.4838e5e4.chunk.js": "/bigsoft-new2/static/js/787.4838e5e4.chunk.js",
+    "static/media/siteloja.png": "/bigsoft-new2/static/media/siteloja.d3c54967ead6220038f1.png",
+    "static/media/site-cyber.png": "/bigsoft-new2/static/media/site-cyber.7c62319d18e7f94d0de9.png",
+    "static/media/logogif.gif": "/bigsoft-new2/static/media/logogif.3e064d26ff9c634b602d.gif",
+    "static/media/site-mark.png": "/bigsoft-new2/static/media/site-mark.96687ada7e300789fb68.png",
+    "static/media/site1.jpg": "/bigsoft-new2/static/media/site1.15d2fe43f963c7727c28.jpg",
+    "index.html": "/bigsoft-new2/index.html",
+    "main.a3c9c8aa.css.map": "/bigsoft-new2/static/css/main.a3c9c8aa.css.map",
+    "main.a745aa54.js.map": "/bigsoft-new2/static/js/main.a745aa54.js.map",
+    "787.4838e5e4.chunk.js.map": "/bigsoft-new2/static/js/787.4838e5e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3c9c8aa.css",
+    "static/js/main.a745aa54.js"
+  ]
+}
