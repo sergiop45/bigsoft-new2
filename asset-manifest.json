@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bigsoft-new2/static/css/main.033351f3.css",
-    "main.js": "/bigsoft-new2/static/js/main.d00efc71.js",
+    "main.js": "/bigsoft-new2/static/js/main.4e5cf1d9.js",
     "static/js/787.4838e5e4.chunk.js": "/bigsoft-new2/static/js/787.4838e5e4.chunk.js",
     "static/media/logogif.gif": "/bigsoft-new2/static/media/logogif.3e064d26ff9c634b602d.gif",
     "static/media/siteloja.png": "/bigsoft-new2/static/media/siteloja.ba53adb7db09aaa8afac.png",
@@ -10,11 +10,11 @@
     "static/media/site-mark.png": "/bigsoft-new2/static/media/site-mark.ea563a5cf0b8a4667b67.png",
     "index.html": "/bigsoft-new2/index.html",
     "main.033351f3.css.map": "/bigsoft-new2/static/css/main.033351f3.css.map",
-    "main.d00efc71.js.map": "/bigsoft-new2/static/js/main.d00efc71.js.map",
+    "main.4e5cf1d9.js.map": "/bigsoft-new2/static/js/main.4e5cf1d9.js.map",
     "787.4838e5e4.chunk.js.map": "/bigsoft-new2/static/js/787.4838e5e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.033351f3.css",
-    "static/js/main.d00efc71.js"
+    "static/js/main.4e5cf1d9.js"
   ]
 }
