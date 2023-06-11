@@ -5,7 +5,6 @@ import Footer from '../../components/Footer'
 import './home.css'
 import Mission from '../../components/Mission'
 import Services from '../../components/Services'
-import Phrase from '../../components/Phrase'
 import WhatsAppButton from '../../components/WhatsButton'
 import Apresentation from '../../components/Apresentation'
 import Contact from '../../components/Contact'
@@ -24,12 +23,10 @@ const Home = () => {
         
         <Portfolio />
 
-        <Phrase >"Soluções digitais inteligentes para o crescimento do seu negócio."</Phrase>
-      
         
-        <Mission />
-       
         <Contact />
+
+        <Mission />
 
         <WhatsAppButton />
         <Footer />

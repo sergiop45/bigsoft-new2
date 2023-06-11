@@ -26,6 +26,7 @@ const Header = () => {
 
       <div className='desktop'>
           
+          <a href='#contato'>Contato</a>
           <a href='#services'>Serviços</a>
           <a href='#projects'>Projetos</a>
           <a href='#mission'>Missão</a>
@@ -36,8 +37,9 @@ const Header = () => {
       {menuOpen && (
         <div className='menu'>
           <ul>
+          <a href='#contato'><li>Contato</li></a>
           <a href='#services'><li>Serviços</li></a>
-          <a href='#projects'><li>Projetos</li></a>
+          <a href='#projects'><li>Projetos</li></a>          
           <a href='#mission'> <li>Missão</li></a>
           <a href='#mission'> <li>Blog</li></a>
           </ul>
